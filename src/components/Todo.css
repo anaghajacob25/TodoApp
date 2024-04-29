@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(  90deg, #5fabc7, #144e8b);
+    
+}
+
+h1{
+    background-color: #5fabc717;
+}
+
+.list-item{
+    text-decoration: line-through;
+    opacity: 0.3;
+}
+
+/* Dark Mode Styles */
+.dark-mode {
+    background-color: linear-gradient(  90deg, #5fabc7, #144e8b);
+    color: #fff;
+  }
+  
+  /* Light Mode Styles */
+  .light-mode {
+    background-color: #fff;
+    color: #333;
+  }
